@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+}
+header{
+    background-color: black;
+    color:aliceblue;
+    padding: 20px;
+}
+nav ul li{
+    padding: 10px;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+ ol,li{
+    display: inline-block;
+
+}
+#Home img{
+    height: 200px;
+    width: 300px;  
+    border-radius: 50px;
+}
+#Bio p{
+    margin-right: 200px;
+    margin-left: 200px;
+}
+#PortFolio p{
+    background-color: blanchedalmond;
+    padding: 20px;
+}
+li{
+    display: inline;
+    padding: 20px;
+}
+#Contact{
+    background-color:pink;
+}
+footer{
+    background-color: black;
+    color: white;
+}
+body{
+    background-color: beige;
+}
